@@ -1,4 +1,5 @@
 package com.gunny.strategy.cash;
 
-public class CashSuper {
+public abstract class CashSuper {
+    public abstract double acceptCash(double money);
 }
