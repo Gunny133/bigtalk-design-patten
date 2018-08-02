@@ -4,7 +4,7 @@ public class Operation {
     public double numberA;
     public double numberB;
 
-    double getResult() {
+    public double getResult() {
         return 0;
     }
 

@@ -2,7 +2,7 @@ package com.gunny.simple.factory;
 
 public class OperationMulti extends Operation {
     @Override
-    double getResult() {
+    public double getResult() {
         return numberA * numberB;
     }
 }
