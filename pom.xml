@@ -12,6 +12,7 @@
         <module>simple-factory-patten</module>
         <module>strategy-patten</module>
         <module>decorator-patten</module>
+        <module>proxy-patten</module>
         <module>factory-method</module>
     </modules>
 
